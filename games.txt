@@ -1,0 +1,3 @@
+eldenring.exe
+tarkov.exe
+halo.exe
