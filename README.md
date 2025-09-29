@@ -1,11 +1,11 @@
-# 🛡️ Sticky Keys Auto Disabler
+# Sticky Keys Auto Disabler
 
 Automatically disables Sticky Keys when your selected games are running — and restores them afterward.  
 Built for accessibility, focus, and uninterrupted gameplay.
 
 ---
 
-## 🔧 Features
+## Features
 
 - ✅ Auto-detects running games from a list
 - ✅ Disables Sticky Keys in the Windows registry
@@ -15,7 +15,7 @@ Built for accessibility, focus, and uninterrupted gameplay.
 
 ---
 
-## 🖥️ Requirements
+## Requirements
 
 - Windows 10 or 11
 - Python 3.x
@@ -23,7 +23,7 @@ Built for accessibility, focus, and uninterrupted gameplay.
 
 ---
 
-## 🚀 Setup
+## Setup
 
 1. **Clone the repo**
    ```bash
@@ -64,7 +64,7 @@ Built for accessibility, focus, and uninterrupted gameplay.
 
 ---
 
-> ⚠️ **Warning:** This script modifies your Windows registry. Use responsibly.
+> **Warning:** This script modifies your Windows registry. Use responsibly.
 
 
 - This script modifies your Windows registry — use responsibly
@@ -73,7 +73,7 @@ Built for accessibility, focus, and uninterrupted gameplay.
 
 ---
 
-## ✅ TODO / Contributions Welcome
+## TODO / Contributions Welcome
 
 - [ ] System tray app version
 - [ ] Auto-start with Windows option
